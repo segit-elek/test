@@ -1,4 +1,4 @@
 #Readme
 ## .gitignore added
 ## Todo
- - [ ] Check how pullrequest works
+ - [x] Check how pullrequest works
