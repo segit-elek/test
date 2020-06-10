@@ -1,4 +1,6 @@
 #Readme
 ## .gitignore added
 ## Todo
- - [ ] Check how pullrequest works
+ - [x] Check how pull request works
+ - [x] Update pull request
+ - [x] labeler
